@@ -8,4 +8,4 @@ setTimeout(),
 class, 
 Math functions, 
 Array functions, 
-Dom Manipulation etc. 
+DOM Manipulation etc. 
